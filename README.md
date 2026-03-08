@@ -20,7 +20,7 @@ I am a developer at **IIT Patna** driven by data and discovery. My journey is de
 - 🏫 **Institution:** IIT Patna (Indian Institute of Technology)
 - 🏆 **Achievement:** National Hackathon Winner
 - 🚀 **Currently Building:** Advanced Data Analytics & GenAI Workflows
-- 🌐 **Portfolio:** [shivamsingh-iit-patna-portfolio.vercel.app](https://shivamsingh-iit-patna-portfolio.vercel.app/)
+- 🌐 **Portfolio:** [shivamsingh-iitpatna.vercel.app](https://shivamsingh-iitpatna.vercel.app/)
 - 🇫🇷 **Linguistics:** Tech enthusiast with a flair for the French language.
 
 ---
